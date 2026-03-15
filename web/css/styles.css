@@ -6,7 +6,7 @@ body {
   height: 100vh;
   overflow: hidden;
   /* background-color: #0b121d; */
-  background-image: url("../images/wp1864207.png");
+  background-image: url("../../assets/wp1864207.png");
   background-repeat: no-repeat;
   background-size: cover;
   font-family: "Chakra Petch", sans-serif;
@@ -36,7 +36,7 @@ main {
 }
 
 main .livefeed {
-  /* background-image: url("./images/Live\ Feed.jpg"); */
+  /* background-image: url("./../../assets/Live\ Feed.jpg"); */
   background-size: cover;
   text-align: center;
 }
